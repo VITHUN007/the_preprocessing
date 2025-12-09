@@ -33,6 +33,14 @@ Price: Scaled using StandardScaler, MinMaxScaler, and RobustScaler to create sta
 ## Visualization
 Visualization: A Scatter Plot of Price vs. Rating was generated.
 
+
+
+### what i done here
+- for stock,categories missing values i uesd "missing" used Ohe dummies here
+- for discount , price missing values we used "mean" to find its values.
+- for raring we used median here
+
+
 ## Dataset used
 - Used this dataset from kaggle
  https://www.kaggle.com/datasets/himelsarder/retail-product-dataset-with-missing-values
